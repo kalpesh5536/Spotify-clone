@@ -20,7 +20,7 @@ nav ul{
     display: flex;
     align-items: center;
     list-style: none;
-    height: 75px;
+    height: 80px;
     background-color: black;
     color: white;
 }
@@ -38,7 +38,7 @@ nav ul li{
 }
 
 .brand img{
-    width: 44px;
+    width: 120px;
     padding: 0 8px;
 }
 
